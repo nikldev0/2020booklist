@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2020booklist/static/css/main.f2e9d612.chunk.css",
+    "main.js": "/2020booklist/static/js/main.d3f5d932.chunk.js",
+    "main.js.map": "/2020booklist/static/js/main.d3f5d932.chunk.js.map",
+    "runtime-main.js": "/2020booklist/static/js/runtime-main.b171cd99.js",
+    "runtime-main.js.map": "/2020booklist/static/js/runtime-main.b171cd99.js.map",
+    "static/js/2.b79bb511.chunk.js": "/2020booklist/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/2020booklist/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/2020booklist/index.html",
+    "precache-manifest.d48aa7781d2494a82cccfe47b9db515e.js": "/2020booklist/precache-manifest.d48aa7781d2494a82cccfe47b9db515e.js",
+    "service-worker.js": "/2020booklist/service-worker.js",
+    "static/css/main.f2e9d612.chunk.css.map": "/2020booklist/static/css/main.f2e9d612.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/2020booklist/static/js/2.b79bb511.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/2020booklist/static/media/BagnardSans.665ef5c3.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b171cd99.js",
+    "static/js/2.b79bb511.chunk.js",
+    "static/css/main.f2e9d612.chunk.css",
+    "static/js/main.d3f5d932.chunk.js"
+  ]
+}
